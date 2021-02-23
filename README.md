@@ -14,11 +14,12 @@ Projekti vaatamiseks kohalikus arvutis on kõige kiirem meetod ajutise veebiserv
 
 ![Serveri avamine](./img/open-server.png)
 
-## Projektid
+## Eksperimendid
 
 nr | nimi | märkused
 ---|---|---
-01 |[projekt-01](project-01/)|Tühi projekt, millest alustada
+01 |[projekt-01](project-01/)|Tühi projekt, millest alustada. Taust, punkt, joon, ristkülik, ruut, ellips, ring, kolmnurk, nelinurk
+02 |[projekt-02](project-02/)|Dünaamilised väärtused
 
 ## Lingid
 

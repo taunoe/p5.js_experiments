@@ -2,8 +2,13 @@ html, body {
   margin: 0;
   padding: 0;
 }
+h1 {
+  text-align: center;
+}
 canvas {
   display: block;
+  max-width: 600px;
+  margin: auto;
 }
 footer {
   position: fixed;
