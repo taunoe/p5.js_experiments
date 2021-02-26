@@ -31,6 +31,8 @@ nr | nimi | märkused
 08 |[Ekslev pall](project-08/)|Müra, [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise), Codecademy näide
 09 |[Ujuvad ringid](project-09/)|Funktsioonid
 10 |[Langev täht](project-10/)|Codecademy näide
+11 |[Rotate](project-11/)|Codecademy näide
+11 |[Projekt-12](project-12/)|rectMode(), ellipseMode(), translate()
 
 ## Lingid
 
