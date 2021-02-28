@@ -32,7 +32,12 @@ nr | nimi | märkused
 09 |[Ujuvad ringid](project-09/)|Funktsioonid
 10 |[Langev täht](project-10/)|Codecademy näide
 11 |[Rotate](project-11/)|Codecademy näide
-11 |[Projekt-12](project-12/)|rectMode(), ellipseMode(), translate()
+12 |[Projekt-12](project-12/)|rectMode(), ellipseMode(), translate()
+13 |[Projekt-13](project-13/)|rotate()
+14 |[Projekt-14](project-14/)|rotate() CENTER, scale()
+15 |[Projekt-15](project-15/)|Shear() - kujundi kallutamine
+16 |[Projekt-16](project-16/)|Shear() katse
+17 |[Projekt-17](project-17/)|Push(), pop()
 
 ## Lingid
 
