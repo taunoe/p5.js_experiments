@@ -38,6 +38,9 @@ nr | nimi | märkused
 15 |[Projekt-15](project-15/)|Shear() - kujundi kallutamine
 16 |[Projekt-16](project-16/)|Shear() katse
 17 |[Projekt-17](project-17/)|Push(), pop()
+18 |[Projekt-18](project-18/)|Järjekord
+19 |[Projekt-19](project-19/)|Keerlevad lilled, colorMode(HSB, 100), gradient colored
+20 |[Tips](project-20/)|resizeCanvas(), Opacity (alpha), colorMode,
 
 ## Lingid
 
