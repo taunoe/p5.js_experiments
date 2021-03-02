@@ -14,6 +14,8 @@ Projekti vaatamiseks kohalikus arvutis on kõige kiirem meetod ajutise veebiserv
 
     python3 -m http.server
 
+Ava brauser addressil http://127.0.0.1:8000/
+
 ![Serveri avamine](./img/open-server.png)
 ![Brauseris](./img/example.png)
 
