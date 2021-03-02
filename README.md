@@ -43,6 +43,9 @@ nr | nimi | märkused
 18 |[Projekt-18](project-18/)|Järjekord
 19 |[Projekt-19](project-19/)|Keerlevad lilled, colorMode(HSB, 100), gradient colored
 20 |[Tips](project-20/)|resizeCanvas(), Opacity (alpha), colorMode,
+21 |[Tips](project-21/)|map(), mouseX, mouseY
+22 |[Tips](project-22/)|lerp()
+23 |[Tips](project-23/)|sin(), cos()
 
 ## Lingid
 
