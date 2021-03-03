@@ -48,6 +48,7 @@ nr | nimi | märkused
 23 |[Tips](project-23/)|sin(), cos()
 24 |[Projekt-24](project-24/)|mouseX, mouseY
 25 |[Projekt-25](project-25/)|mousePressed(), mouseIsPressed, mouseMoved(), mouseClicked()
+26 |[Spot light](project-26/)|dist()
 
 ## GIT
 
