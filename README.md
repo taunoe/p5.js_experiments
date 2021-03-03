@@ -42,10 +42,26 @@ nr | nimi | märkused
 17 |[Projekt-17](project-17/)|Push(), pop()
 18 |[Projekt-18](project-18/)|Järjekord
 19 |[Projekt-19](project-19/)|Keerlevad lilled, colorMode(HSB, 100), gradient colored
-20 |[Tips](project-20/)|resizeCanvas(), Opacity (alpha), colorMode,
+20 |[Tips](project-20/)|resizeCanvas(), Opacity (alpha), colorMode
 21 |[Tips](project-21/)|map(), mouseX, mouseY
 22 |[Tips](project-22/)|lerp()
 23 |[Tips](project-23/)|sin(), cos()
+24 |[Projekt-24](project-24/)|mouseX, mouseY
+25 |[Projekt-25](project-25/)|mousePressed(), mouseIsPressed, mouseMoved(), mouseClicked()
+
+## GIT
+
+Haru (Branch) valimine:
+
+    git checkout tööl
+
+Haru uuendamine
+
+    git fetch origin
+
+Tõmba 'main' harust uuendused:
+
+    git merge origin/main
 
 ## Lingid
 
