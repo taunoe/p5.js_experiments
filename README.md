@@ -19,7 +19,7 @@ Ava brauser addressil http://127.0.0.1:8000/
 ![Serveri avamine](./img/open-server.png)
 ![Brauseris](./img/example.png)
 
-## Õppe eksperimendid
+## Õppe näited ja eksperimendid
 
 nr | nimi | märkused
 ---|---|---
@@ -49,6 +49,10 @@ nr | nimi | märkused
 24 |[Projekt-24](project-24/)|mouseX, mouseY
 25 |[Projekt-25](project-25/)|mousePressed(), mouseIsPressed, mouseMoved(), mouseClicked()
 26 |[Spot light](project-26/)|dist()
+27 |[Projekt-27](project-27/)|key, keyCode
+28 |[Maze](project-28/)| lihtne labürindi mäng
+29 |[Projekt-29](project-29/)| keyIsPressed, keyPressed(),keyReleased(), keyTyped(), keyIsDown
+30 |[Pong](project-30/)| lihtne 'pong' mäng
 
 ## GIT
 
