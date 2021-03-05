@@ -53,6 +53,9 @@ nr | nimi | märkused
 28 |[Maze](project-28/)| lihtne labürindi mäng
 29 |[Projekt-29](project-29/)| keyIsPressed, keyPressed(),keyReleased(), keyTyped(), keyIsDown
 30 |[Pong](project-30/)| lihtne 'pong' mäng
+31 |[Pildid](project-31/)|loadImage(), image(), preload()
+32 |[Videod](project-32/)|createVideo(), .play(), .hide()
+33 |[Videod player](project-33/)|.loop(), .stop(), .pause(), .volume()
 
 ## GIT
 
