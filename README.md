@@ -56,6 +56,8 @@ nr | nimi | märkused
 31 |[Pildid](project-31/)|loadImage(), image(), preload()
 32 |[Videod](project-32/)|createVideo(), .play(), .hide()
 33 |[Videod player](project-33/)|.loop(), .stop(), .pause(), .volume()
+34 |[Pildid](project-34/)|filtrid
+35 |[Pixel manipulation](project-35/)|get(), set()
 
 ## GIT
 
