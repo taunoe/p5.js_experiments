@@ -1,0 +1,57 @@
+html, body {
+  margin: 0;
+  padding: 16px;
+  background-color: #3A10E5;
+  color: white;
+  font-family: Arial;
+}
+h1 {
+  text-align: center;
+}
+canvas {
+  display: block;
+  margin:auto;
+  position:relative;
+  top:-130px;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #dadada;
+  color: #0f0f0f;
+  text-align: left;
+}
+.header{
+  width:480px;
+  text-align:left;
+  margin:auto;
+}
+
+.header *{
+  display:inline-block;
+  vertical-align:middle;
+  padding:0px 16px 24px 0px;
+ 
+}
+button {
+  border-radius: 4px;
+  padding: 8px 16px;
+  border: 4px solid black;
+  background: white;
+  font-size: 16px;
+  line-height: 1.8rem;
+  margin-right: 8px;
+  border-radius: 8px;
+  text-align:left;
+}
+
+.buttons{
+  position:relative;
+  top: 316px;
+  left:0px;
+  right:0px;
+  margin:auto;
+  width:480px;
+}
