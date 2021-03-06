@@ -58,6 +58,7 @@ nr | nimi | märkused
 33 |[Videod player](project-33/)|.loop(), .stop(), .pause(), .volume()
 34 |[Pildid](project-34/)|filtrid
 35 |[Pixel manipulation](project-35/)|get(), set()
+36 |[Videod manipulation](project-36/)|pixelDensity(), loadPixels(), .height(),  manipulate the pixels array
 
 ## GIT
 
