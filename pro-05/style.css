@@ -1,0 +1,17 @@
+html, body {
+  margin: auto;
+  padding: 0;
+
+}
+canvas {
+  display: block;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #dadada;
+  color: #0f0f0f;
+  text-align: left;
+}

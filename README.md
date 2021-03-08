@@ -59,6 +59,15 @@ nr | nimi | märkused
 34 |[Pildid](project-34/)|filtrid
 35 |[Pixel manipulation](project-35/)|get(), set()
 36 |[Videod manipulation](project-36/)|pixelDensity(), loadPixels(), .height(),  manipulate the pixels array
+37 |[pro-01](pro-01/)| Mustrid
+38 |[pro-02](pro-02/)| Värvilised põrkavad pallid
+39 |[pro-03](pro-03/)| Klahvidega random mustrite joonistamine, pildi salvestamine
+40 |[pro-04](pro-04/)| webcam (scale funck ei tööta!)
+41 |[pro-05](pro-05/)| webcam filtrid (klikimisel vahetuvad)
+42 |[pro-06](pro-06/)| webcam “emoji mirror”
+43 |[pro-07](pro-07/)| webcam ghost-like effect
+44 |[pro-08](pro-08/)| webcam slit-scan, "time warp scan"
+45 |[pro-09](pro-09/)| webcam ml5js, PoseNet -> anime filter
 
 ## GIT
 
