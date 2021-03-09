@@ -69,6 +69,19 @@ nr | nimi | märkused
 44 |[pro-08](pro-08/)| webcam slit-scan, "time warp scan"
 45 |[pro-09](pro-09/)| webcam ml5js, PoseNet -> anime filter
 
+## next
+
+- https://p5js.org/reference/#/libraries/p5.sound
+- https://p5js.org/reference/#/p5.Oscillator
+- https://p5js.org/reference/#/p5.Amplitude
+
+- https://natureofcode.com/
+
+- https://ml5js.org/
+
+
+
+
 ## GIT
 
 Haru (Branch) valimine:
