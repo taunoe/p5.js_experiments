@@ -68,6 +68,7 @@ nr | nimi | märkused
 43 |[pro-07](pro-07/)| webcam ghost-like effect
 44 |[pro-08](pro-08/)| webcam slit-scan, "time warp scan"
 45 |[pro-09](pro-09/)| webcam ml5js, PoseNet -> anime filter
+46 |[pro-10](pro-10/)| video sculpture
 
 ## next
 
