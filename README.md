@@ -72,13 +72,7 @@ nr | nimi | märkused
 
 ## next
 
-- https://p5js.org/reference/#/libraries/p5.sound
-- https://p5js.org/reference/#/p5.Oscillator
-- https://p5js.org/reference/#/p5.Amplitude
 
-- https://natureofcode.com/
-
-- https://ml5js.org/
 
 
 
@@ -100,6 +94,12 @@ Tõmba 'main' harust uuendused:
 ## Lingid
 
 - [Codecademy: learn-p5js](https://www.codecademy.com/learn/learn-p5js)
+- - https://p5js.org/reference/#/libraries/p5.sound
+- https://p5js.org/reference/#/p5.Oscillator
+- https://p5js.org/reference/#/p5.Amplitude
+- https://natureofcode.com/
+- https://ml5js.org/
+- https://lauren-mccarthy.com/p5-js
 
 ___
 
